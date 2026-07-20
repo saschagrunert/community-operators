@@ -1,61 +1,5 @@
 [
     {
-        "number": 8676,
-        "author": "ack-bot",
-        "date_created": "2026-07-07T23:45:43Z",
-        "time_to_merge": 4133,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 8678,
-        "author": "ack-bot",
-        "date_created": "2026-07-07T23:48:44Z",
-        "time_to_merge": 4837,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 8679,
-        "author": "ack-bot",
-        "date_created": "2026-07-07T23:49:01Z",
-        "time_to_merge": 3464,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 8680,
-        "author": "ack-bot",
-        "date_created": "2026-07-07T23:49:57Z",
-        "time_to_merge": 4531,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 8681,
-        "author": "ack-bot",
-        "date_created": "2026-07-07T23:55:58Z",
-        "time_to_merge": 4352,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 8682,
-        "author": "ack-bot",
-        "date_created": "2026-07-07T23:56:07Z",
-        "time_to_merge": 4423,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 8683,
-        "author": "ack-bot",
-        "date_created": "2026-07-07T23:56:24Z",
-        "time_to_merge": 3983,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
         "number": 8684,
         "author": "ack-bot",
         "date_created": "2026-07-07T23:56:42Z",
@@ -332,8 +276,8 @@
         "author": "graviteeio",
         "date_created": "2026-07-08T09:43:00Z",
         "time_to_merge": 797880,
-        "authorizer": "maintainer",
-        "interaction": "maintainer set authorized-changes"
+        "authorizer": "bot",
+        "interaction": "none"
     },
     {
         "number": 8720,
@@ -484,32 +428,32 @@
         "author": "graviteeio",
         "date_created": "2026-07-10T08:16:18Z",
         "time_to_merge": 625695,
-        "authorizer": "maintainer",
-        "interaction": "maintainer set authorized-changes"
+        "authorizer": "bot",
+        "interaction": "none"
     },
     {
         "number": 8740,
         "author": "graviteeio",
         "date_created": "2026-07-10T08:26:12Z",
         "time_to_merge": 625122,
-        "authorizer": "maintainer",
-        "interaction": "maintainer set authorized-changes"
+        "authorizer": "bot",
+        "interaction": "none"
     },
     {
         "number": 8741,
         "author": "graviteeio",
         "date_created": "2026-07-10T08:39:13Z",
         "time_to_merge": 624334,
-        "authorizer": "maintainer",
-        "interaction": "maintainer set authorized-changes"
+        "authorizer": "bot",
+        "interaction": "none"
     },
     {
         "number": 8742,
         "author": "graviteeio",
         "date_created": "2026-07-10T08:49:26Z",
         "time_to_merge": 628562,
-        "authorizer": "maintainer",
-        "interaction": "maintainer set authorized-changes"
+        "authorizer": "bot",
+        "interaction": "none"
     },
     {
         "number": 8743,
@@ -756,22 +700,38 @@
         "author": "ggeorgiev-gitlab",
         "date_created": "2026-07-16T17:54:53Z",
         "time_to_merge": 1399,
-        "authorizer": "maintainer",
-        "interaction": "maintainer set authorized-changes"
+        "authorizer": "bot",
+        "interaction": "none"
     },
     {
         "number": 8778,
         "author": "quay-devel",
         "date_created": "2026-07-16T18:10:04Z",
         "time_to_merge": 4992,
-        "authorizer": "maintainer",
-        "interaction": "maintainer set authorized-changes"
+        "authorizer": "bot",
+        "interaction": "none"
     },
     {
         "number": 8779,
         "author": "ack-bot",
         "date_created": "2026-07-16T19:00:48Z",
         "time_to_merge": 1998,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 8782,
+        "author": "graviteeio",
+        "date_created": "2026-07-17T17:29:45Z",
+        "time_to_merge": 45648,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 8783,
+        "author": "graviteeio",
+        "date_created": "2026-07-17T17:39:29Z",
+        "time_to_merge": 44963,
         "authorizer": "maintainer",
         "interaction": "maintainer set authorized-changes"
     },
@@ -792,10 +752,50 @@
         "interaction": "maintainer set authorized-changes"
     },
     {
+        "number": 8786,
+        "author": "graviteeio",
+        "date_created": "2026-07-17T18:12:01Z",
+        "time_to_merge": 43101,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
         "number": 8787,
         "author": "graviteeio",
         "date_created": "2026-07-17T18:39:19Z",
         "time_to_merge": 970,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 8788,
+        "author": "stubbi",
+        "date_created": "2026-07-18T16:46:51Z",
+        "time_to_merge": 2378,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 8789,
+        "author": "stubbi",
+        "date_created": "2026-07-19T20:28:53Z",
+        "time_to_merge": 812,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 8790,
+        "author": "gma1k",
+        "date_created": "2026-07-19T21:20:21Z",
+        "time_to_merge": 935,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 8791,
+        "author": "stubbi",
+        "date_created": "2026-07-19T21:50:26Z",
+        "time_to_merge": 2496,
         "authorizer": "maintainer",
         "interaction": "maintainer set authorized-changes"
     }
